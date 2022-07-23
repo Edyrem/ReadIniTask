@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ReadIni\ReadIni\bin\Debug\netcoreapp3.1\ReadIni.exe
+C:\Users\Admin\source\repos\ReadIni\ReadIni\bin\Debug\netcoreapp3.1\ReadIni.deps.json
+C:\Users\Admin\source\repos\ReadIni\ReadIni\bin\Debug\netcoreapp3.1\ReadIni.runtimeconfig.json
+C:\Users\Admin\source\repos\ReadIni\ReadIni\bin\Debug\netcoreapp3.1\ReadIni.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ReadIni\ReadIni\bin\Debug\netcoreapp3.1\ReadIni.dll
+C:\Users\Admin\source\repos\ReadIni\ReadIni\bin\Debug\netcoreapp3.1\ReadIni.pdb
+C:\Users\Admin\source\repos\ReadIni\ReadIni\obj\Debug\netcoreapp3.1\ReadIni.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ReadIni\ReadIni\obj\Debug\netcoreapp3.1\ReadIni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ReadIni\ReadIni\obj\Debug\netcoreapp3.1\ReadIni.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ReadIni\ReadIni\obj\Debug\netcoreapp3.1\ReadIni.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ReadIni\ReadIni\obj\Debug\netcoreapp3.1\ReadIni.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ReadIni\ReadIni\obj\Debug\netcoreapp3.1\ReadIni.dll
+C:\Users\Admin\source\repos\ReadIni\ReadIni\obj\Debug\netcoreapp3.1\ReadIni.pdb
+C:\Users\Admin\source\repos\ReadIni\ReadIni\obj\Debug\netcoreapp3.1\ReadIni.genruntimeconfig.cache
